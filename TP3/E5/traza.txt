@@ -1,0 +1,17 @@
+clases y atributos
+    abstract class Shape
+        class Circle extends Shape
+        class Rectangle extends Shape
+        class Triangle extends Shape
+    class ShapeList (maneja  la lista de figuras con private List<Shape> listaFiguras;)
+        metodo para dibujar figura
+        metodo para cambiar el tamaño de todas las figuras (escalado)
+        metodo para mover todas las figuras con factores X e Y (movimiento)
+        metodo para movimiento de una figura especifica
+        metodo para escalado de una figura especifica
+        metodo para agregar figura al final de la lista
+        metodo para insertar figura en una posicion dada
+        metodo para devolver la cantidad de figuras existentes
+        metodo para quitar figura de posicion dada
+
+    (los metodos imprimen textos que explican lo que ocurre y los detalles)

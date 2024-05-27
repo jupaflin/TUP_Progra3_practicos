@@ -1,0 +1,17 @@
+clases y atibutos:
+clase auto
+    patente
+    marca
+    modelo
+    clase motor
+        numero
+        kilometraje
+        cilindrada
+
+main
+se crean dos motores, motor1 y motor2
+se crea auto1 con motor1
+se imprimen detalles de auto1, incluyendo su motor1
+se imprimen detalles de motor2 solo
+
+de esta forma se presenta el concepto de agregacion
